@@ -4,12 +4,13 @@
 This project is a desktop application developed using C# Windows Forms as part of an Object-Oriented Programming (OOP) course.  
 It demonstrates both expression evaluation techniques and basic function graphing.
 
-The project was developed under the supervision of Dr. Sherif Fadel Fahmy (Head of Computer Department).
+The project was developed under the supervision of Dr. Sherif Fadel Fahmy (Head of the Computer Department), AAST Sheraton.
 
 ---
 
 ## 📸 Demo / Screenshots
-
+This shows the main interface of the calculator:
+![image](image.png)
 
 
 ## Features
