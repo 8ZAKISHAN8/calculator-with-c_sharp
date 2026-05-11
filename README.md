@@ -9,8 +9,8 @@ The project was developed under the supervision of Dr. Sherif Fadel Fahmy (Head 
 ---
 
 ## 📸 Demo / Screenshots
-This shows the main interface of the calculator:
-![image](image.png)
+This shows the main interface of the calculator with graph plotting functionality.
+![Calculator UI](images/calculator-ui.png)
 
 
 ## Features
